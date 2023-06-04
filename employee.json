@@ -1,0 +1,63 @@
+[
+    {
+        "id": 0,
+        "name": "Jachimike Onwuka",
+        "salary": "$150,000",
+        "department": "Software Engineer"
+    },
+    {
+        "id": 2,
+        "name": "William Thomas",
+        "salary": "$100,000",
+        "department": " Sales Associate"
+    },
+    {
+        "id": 3,
+        "name": "Sophia Clark",
+        "salary": "$110,000",
+        "department": "Human Resources"
+    },
+    {
+        "id": 4,
+        "name": "James Wright",
+        "salary": "$115,000",
+        "department": "Finace"
+    },
+    {
+        "id": 5,
+        "name": "Ethan Thompson",
+        "salary": "$120,000",
+        "department": "IT"
+    },
+    {
+        "id": 6,
+        "name": "Olivia Anderson",
+        "salary": "$125,000",
+        "department": "Operations"
+    },
+    {
+        "id": 7,
+        "name": "Liam Martinez",
+        "salary": "$130,000",
+        "department": "Research"
+    },
+    {
+        "id": 8,
+        "name": "Emma Johnson",
+        "salary": "$135,000",
+        "department": "Engineering"
+    },
+    {
+        "id": 9,
+        "name": "Noah Davis",
+        "salary": "$140,000",
+        "department": "Customer Service"
+    },
+    {
+        "id": 10,
+        "name": "Ava Wilson",
+        "salary": "$145,000",
+        "department": "Management"
+    }
+
+]
